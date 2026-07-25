@@ -24,8 +24,8 @@ export function Layout() {
       <footer className="footer">
         © {new Date().getFullYear()} Kinnect. All rights reserved.
         <br />
-        Support:{' '}
-        <a href="mailto:support@kinnect.app">support@kinnect.app</a>
+        Contact by phone:{' '}
+        <a href="tel:+919902481362">9902481362</a>
       </footer>
     </div>
   )

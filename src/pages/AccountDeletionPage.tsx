@@ -22,14 +22,14 @@ export function AccountDeletionPage() {
 
       <h2>If you cannot access the app</h2>
       <p>
-        Email{' '}
-        <a href="mailto:support@kinnect.app">support@kinnect.app</a> from the
-        phone number or email associated with your account. Include:
+        Call{' '}
+        <a href="tel:+919902481362">9902481362</a> from the phone number
+        associated with your account. Include:
       </p>
       <ul>
-        <li>Subject line: “Account deletion request”</li>
-        <li>Your registered phone / email</li>
-        <li>A short confirmation that you want permanent deletion</li>
+        <li>That you want permanent account deletion</li>
+        <li>Your registered phone / email on the Kinnect account</li>
+        <li>Enough detail for us to verify ownership</li>
       </ul>
       <p>
         We will verify ownership and process deletion requests as soon as

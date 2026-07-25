@@ -125,9 +125,8 @@ export function PrivacyPolicyPage() {
           <a href="/account-deletion">Account Deletion</a> page
         </li>
         <li>
-          Contact us at{' '}
-          <a href="mailto:support@kinnect.app">support@kinnect.app</a> for
-          privacy requests
+          Contact us by phone at{' '}
+          <a href="tel:+919902481362">9902481362</a> for privacy requests
         </li>
       </ul>
 
@@ -154,14 +153,13 @@ export function PrivacyPolicyPage() {
 
       <h2>11. Contact</h2>
       <p>
-        Questions about privacy:{' '}
-        <a href="mailto:support@kinnect.app">support@kinnect.app</a>
+        Questions about privacy — by phone:{' '}
+        <a href="tel:+919902481362">9902481362</a>
       </p>
 
       <p className="note">
         This page is intended for App Store / Play Store legal disclosure for
-        the Kinnect consumer app. Replace the support email with your
-        production support address before going live if different.
+        the Kinnect consumer app.
       </p>
     </article>
   )

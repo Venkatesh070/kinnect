@@ -137,14 +137,13 @@ export function TermsPage() {
 
       <h2>14. Contact</h2>
       <p>
-        Questions about these Terms:{' '}
-        <a href="mailto:support@kinnect.app">support@kinnect.app</a>
+        Questions about these Terms — by phone:{' '}
+        <a href="tel:+919902481362">9902481362</a>
       </p>
 
       <p className="note">
         Review this document with your counsel before App Store submission and
-        update company legal name, jurisdiction, and support contacts as
-        needed.
+        update company legal name and jurisdiction as needed.
       </p>
     </article>
   )
