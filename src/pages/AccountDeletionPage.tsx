@@ -2,16 +2,16 @@ export function AccountDeletionPage() {
   return (
     <article className="doc">
       <header className="doc-header">
-        <h1>Delete your Kinnect account</h1>
+        <h1>Delete your Kynct account</h1>
         <p className="meta">
           Apple App Store requires a clear account-deletion path. Use the steps
           below.
         </p>
       </header>
 
-      <h2>Delete from the Kinnect app (recommended)</h2>
+      <h2>Delete from the Kynct app (recommended)</h2>
       <ol>
-        <li>Open the Kinnect app and sign in.</li>
+        <li>Open the Kynct app and sign in.</li>
         <li>Go to <strong>Profile</strong> → <strong>Settings</strong>.</li>
         <li>Tap <strong>Delete Account</strong>.</li>
         <li>
@@ -28,7 +28,7 @@ export function AccountDeletionPage() {
       </p>
       <ul>
         <li>That you want permanent account deletion</li>
-        <li>Your registered phone / email on the Kinnect account</li>
+        <li>Your registered phone / email on the Kynct account</li>
         <li>Enough detail for us to verify ownership</li>
       </ul>
       <p>
@@ -51,7 +51,7 @@ export function AccountDeletionPage() {
       </p>
 
       <p className="note">
-        After deletion, you will need to create a new account to use Kinnect
+        After deletion, you will need to create a new account to use Kynct
         again.
       </p>
     </article>

@@ -1,11 +1,12 @@
 :root {
-  --brand: #9b5de5;
-  --brand-dark: #6d3ab8;
-  --brand-soft: #f3e9fc;
-  --ink: #1a1424;
+  --brand: #a056ff;
+  --brand-dark: #6b2fd9;
+  --brand-soft: #f3ebff;
+  --ink: #1a0b3a;
   --muted: #5c5568;
   --line: #e8e0f2;
   --surface: #fffdfb;
+  --accent: #ff4da1;
   --glow: rgba(155, 93, 229, 0.18);
   --max: 760px;
   font-family: 'Manrope', system-ui, sans-serif;

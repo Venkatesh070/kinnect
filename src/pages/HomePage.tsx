@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom'
 export function HomePage() {
   return (
     <section className="hero">
-      <h1>Kinnect legal center</h1>
+      <h1>Kynct legal center</h1>
       <p>
-        Policies that govern how Kinnect connects people nearby — including
+        Policies that govern how Kynct connects people nearby — including
         privacy, terms of use, and how to delete your account.
       </p>
       <div className="card-grid">
@@ -15,7 +15,7 @@ export function HomePage() {
         </Link>
         <Link className="card" to="/terms">
           <h2>Terms & Conditions</h2>
-          <p>Rules for using Kinnect and community expectations.</p>
+          <p>Rules for using Kynct and community expectations.</p>
         </Link>
         <Link className="card" to="/account-deletion">
           <h2>Delete your account</h2>

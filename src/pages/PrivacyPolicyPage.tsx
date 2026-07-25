@@ -9,13 +9,13 @@ export function PrivacyPolicyPage() {
       </header>
 
       <p>
-        This Privacy Policy explains how <strong>Kinnect</strong> (“we”, “us”,
+        This Privacy Policy explains how <strong>Kynct</strong> (“we”, “us”,
         or “our”) collects, uses, shares, and protects information when you use
-        the Kinnect mobile application and related services (the “Service”).
+        the Kynct mobile application and related services (the “Service”).
       </p>
       <p>
-        Kinnect is a dating and social discovery app for adults{' '}
-        <strong>18 years of age and older</strong>. By using Kinnect, you agree
+        Kynct is a dating and social discovery app for adults{' '}
+        <strong>18 years of age and older</strong>. By using Kynct, you agree
         to this Policy.
       </p>
 
@@ -69,7 +69,7 @@ export function PrivacyPolicyPage() {
       <p>
         We do <strong>not</strong> sell your personal information. We do not use
         third-party advertising trackers for cross-app tracking in the current
-        Kinnect iOS release.
+        Kynct iOS release.
       </p>
 
       <h2>3. How we share information</h2>
@@ -94,7 +94,7 @@ export function PrivacyPolicyPage() {
 
       <h2>4. Permissions on your device</h2>
       <p>
-        Kinnect may request access to location, contacts, camera, photos,
+        Kynct may request access to location, contacts, camera, photos,
         microphone, and notifications. You can deny or revoke these permissions
         in your device settings. Some features (especially nearby matching) may
         not work without location access.
@@ -110,7 +110,7 @@ export function PrivacyPolicyPage() {
 
       <h2>6. Children’s privacy</h2>
       <p>
-        Kinnect is strictly for users <strong>18+</strong>. We do not knowingly
+        Kynct is strictly for users <strong>18+</strong>. We do not knowingly
         collect information from anyone under 18. If we learn that an underage
         account was created, we will delete it.
       </p>
@@ -140,7 +140,7 @@ export function PrivacyPolicyPage() {
 
       <h2>9. International users</h2>
       <p>
-        If you use Kinnect from outside the country where our servers operate,
+        If you use Kynct from outside the country where our servers operate,
         your information may be processed in other jurisdictions with different
         data-protection laws.
       </p>
@@ -159,7 +159,7 @@ export function PrivacyPolicyPage() {
 
       <p className="note">
         This page is intended for App Store / Play Store legal disclosure for
-        the Kinnect consumer app.
+        the Kynct consumer app.
       </p>
     </article>
   )

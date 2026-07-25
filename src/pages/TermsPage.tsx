@@ -9,10 +9,10 @@ export function TermsPage() {
       </header>
 
       <p>
-        Welcome to <strong>Kinnect</strong>. These Terms & Conditions (“Terms”)
-        govern your access to and use of the Kinnect mobile application and
+        Welcome to <strong>Kynct</strong>. These Terms & Conditions (“Terms”)
+        govern your access to and use of the Kynct mobile application and
         related services (the “Service”). By creating an account or using
-        Kinnect, you agree to these Terms.
+        Kynct, you agree to these Terms.
       </p>
 
       <h2>1. Eligibility</h2>
@@ -20,7 +20,7 @@ export function TermsPage() {
         <li>You must be at least <strong>18 years old</strong>.</li>
         <li>You must provide accurate registration information.</li>
         <li>
-          You may not use Kinnect if you have been banned or if use is
+          You may not use Kynct if you have been banned or if use is
           prohibited by applicable law.
         </li>
       </ul>
@@ -39,14 +39,14 @@ export function TermsPage() {
         <li>Post illegal, hateful, pornographic involving minors, or violent content</li>
         <li>Impersonate others or misrepresent your identity</li>
         <li>Upload spam, malware, or scrape the Service</li>
-        <li>Use Kinnect for commercial solicitation without our permission</li>
+        <li>Use Kynct for commercial solicitation without our permission</li>
         <li>Interfere with safety systems, reports, or blocks</li>
       </ul>
 
       <h2>4. User content</h2>
       <p>
         You retain ownership of content you upload (photos, messages, bio,
-        etc.). You grant Kinnect a worldwide, non-exclusive license to host,
+        etc.). You grant Kynct a worldwide, non-exclusive license to host,
         display, and distribute that content as needed to operate the Service.
       </p>
       <p>
@@ -56,10 +56,10 @@ export function TermsPage() {
 
       <h2>5. Safety & community tools</h2>
       <p>
-        Kinnect provides report and block tools. We encourage you to use them
+        Kynct provides report and block tools. We encourage you to use them
         when you encounter abusive or suspicious behavior. We may investigate
         reports and take action we deem appropriate, including content removal
-        or account termination. Kinnect does not guarantee that every report
+        or account termination. Kynct does not guarantee that every report
         will result in a specific outcome.
       </p>
       <p>
@@ -71,7 +71,7 @@ export function TermsPage() {
       <h2>6. Location & permissions</h2>
       <p>
         Nearby matching relies on location permissions. By enabling location,
-        you agree that Kinnect may process your location to calculate proximity
+        you agree that Kynct may process your location to calculate proximity
         and discovery results. You can disable location in device settings, but
         core discovery features may become unavailable.
       </p>
@@ -92,14 +92,14 @@ export function TermsPage() {
 
       <h2>8. Intellectual property</h2>
       <p>
-        Kinnect branding, logos, software, and design are owned by us or our
+        Kynct branding, logos, software, and design are owned by us or our
         licensors. You may not copy, modify, or distribute our materials except
         as allowed by these Terms or with written permission.
       </p>
 
       <h2>9. Disclaimers</h2>
       <p>
-        Kinnect is provided “as is” and “as available.” We do not guarantee
+        Kynct is provided “as is” and “as available.” We do not guarantee
         uninterrupted service, perfect match quality, or that every user is who
         they claim to be. Use the Service at your own discretion and follow
         safety best practices.
@@ -107,7 +107,7 @@ export function TermsPage() {
 
       <h2>10. Limitation of liability</h2>
       <p>
-        To the maximum extent permitted by law, Kinnect and its operators will
+        To the maximum extent permitted by law, Kynct and its operators will
         not be liable for indirect, incidental, special, consequential, or
         punitive damages, or any loss of profits, data, or goodwill arising
         from your use of the Service.
@@ -115,14 +115,14 @@ export function TermsPage() {
 
       <h2>11. Termination</h2>
       <p>
-        You may stop using Kinnect and delete your account at any time. We may
+        You may stop using Kynct and delete your account at any time. We may
         suspend or terminate access if you violate these Terms, create risk for
         other users, or for operational/legal reasons.
       </p>
 
       <h2>12. Account deletion</h2>
       <p>
-        You can delete your account in the Kinnect app under Settings, or by
+        You can delete your account in the Kynct app under Settings, or by
         following the steps on our{' '}
         <a href="/account-deletion">Account Deletion</a> page. Deletion is
         permanent and removes access to your profile and related in-app data,

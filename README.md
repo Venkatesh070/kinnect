@@ -1,6 +1,6 @@
-# Kinnect Legal Site
+# Kynct Legal Site
 
-React (Vite) site for Kinnect **Privacy Policy**, **Terms & Conditions**, and **Account Deletion** — ready for Vercel.
+React (Vite) site for Kynct **Privacy Policy**, **Terms & Conditions**, and **Account Deletion** — ready for Vercel.
 
 ## Local development
 

@@ -7,7 +7,7 @@ export function Layout() {
         <div className="topbar-inner">
           <NavLink to="/" className="brand" end>
             <img src="/kinnect-logo.png" alt="" />
-            <span className="brand-name">Kinnect</span>
+            <span className="brand-name">Kynct</span>
           </NavLink>
           <nav className="nav" aria-label="Legal">
             <NavLink to="/privacy-policy">Privacy Policy</NavLink>
@@ -22,7 +22,7 @@ export function Layout() {
       </main>
 
       <footer className="footer">
-        © {new Date().getFullYear()} Kinnect. All rights reserved.
+        © {new Date().getFullYear()} Kynct. All rights reserved.
         <br />
         Contact by phone:{' '}
         <a href="tel:+919902481362">9902481362</a>
